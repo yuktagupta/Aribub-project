@@ -1,4 +1,6 @@
 Project Objective
+
+
 Understand trends in Airbnb listings
 Analyze pricing, availability, and reviews
 Identify patterns in room types and neighborhood groups
